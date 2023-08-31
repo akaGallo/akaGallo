@@ -5,4 +5,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaGallo&layout=compact&theme=dark" height=180px>
 </div>
 
-Let's go!
+Let's go...
