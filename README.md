@@ -28,11 +28,11 @@ I pride myself on a diverse skill set, including:
 - Programming Languages and Tools:
   - Python (High Proficiency) 🐍
   - Java (High Proficiency) ☕
+  - Jupyter (High Proficiency) 📔
+  - PDDL (High Proficiency) 🤖
   - C (Intermediate Proficiency) 🅒
   - Assembly (Intermediate Proficiency) 💾
   - Matlab (Intermediate Proficiency) 📈
-  - Jupyter (High Proficiency) 📔
-  - PDDL (High Proficiency) 🤖
   - HTML (Basic Proficiency) 🌐
   - Javascript (Basic Proficiency)
   - R (Basic Proficiency) 📊
@@ -47,17 +47,17 @@ I pride myself on a diverse skill set, including:
   <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="40px"/>
   </a>
-  <a href="https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Assembly-FFFFFF?style=for-the-badge&logo=assembly&logoColor=black" alt="Assembly" height="40px"/>
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Matlab-FF0000?style=for-the-badge&logo=matlab&logoColor=black" alt="Matlab" height="40px"/>
-  </a>
-  <a href="https://jupyter.org" target="_blank" rel="noreferrer">
+    <a href="https://jupyter.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Jupyter-FFA500?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" height="40px"/>
   </a>
   <a href="https://planning.wiki/ref/pddl/domain" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PDDL-00008B?style=for-the-badge&logo=pddl&logoColor=white" alt="PDDL" height="40px"/>
+  </a>
+<a href="https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Assembly-FFFFFF?style=for-the-badge&logo=assembly&logoColor=black" alt="Assembly" height="40px"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Matlab-FF0000?style=for-the-badge&logo=matlab&logoColor=black" alt="Matlab" height="40px"/>
   </a>
   <a href="https://html.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="40px"/>
