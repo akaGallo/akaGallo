@@ -6,7 +6,7 @@
 - 📚 Currently pursuing a Master's degree in Artificial Intelligence Systems at the University of Trento.
 
 ### About Me 🙋‍♂️
-I am a passionate computer scientist with a strong background in various aspects of computing. My journey started at the University of Florence, where I successfully completed my undergraduate studies with top honors. Now, I'm embarking on a new adventure, diving deeper into the fascinating world of Artificial Intelligence.
+I am a passionate computer scientist with a strong background in various aspects of computing. My journey started at the University of Florence, where I successfully completed my undergraduate studies with top honors. Now, I'm embarking on a new adventure, diving deeper into the fascinating world of Artificial Intelligence. My interests encompass a wide range of topics, from machine learning, natural language processing, and software development to a deep passion for leveraging technology to address real-world challenges and enhance the quality of people's lives. Furthermore, I have a strong affinity for AI research, with a particular focus on the use of sound-based approaches to enhance cochlear implants.
 
 ### Repository Highlights 🚀
 In my repositories, you'll find a collection of projects that showcase my academic and practical experience in the field of computer science. Most of these projects were developed during my Master's program, covering a wide range of topics from different courses.
@@ -17,7 +17,7 @@ In my repositories, you'll find a collection of projects that showcase my academ
 </div>
 
 ### Technical Skills 💻
-I pride myself on a diverse skill set, including:
+I take pride in my diverse skill set, which encompasses a broad spectrum of computer knowledge I've acquired throughout my academic journey.
 
 #### Operating Systems:
 - Mac (High Proficiency) 💻
