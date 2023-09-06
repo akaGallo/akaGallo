@@ -18,10 +18,11 @@ In my repositories, you'll find a collection of projects that showcase my academ
 
 ### Technical Skills 💻
 I pride myself on a diverse skill set, including:
-- Operating Systems:
-  - Mac (High Proficiency) 💻
-  - Linux (Intermediate Proficiency) 🐧
-  - Windows (Basic Proficiency) 🪟
+
+#### Operating Systems:
+- Mac (High Proficiency) 💻
+- Linux (Intermediate Proficiency) 🐧
+- Windows (Basic Proficiency) 🪟
  
 <p align="left">
   <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS" height="40px"/>
@@ -32,20 +33,28 @@ I pride myself on a diverse skill set, including:
   </a>
 </p>
 
-- Common Software:
-  - Microsoft Office Suite (High Proficiency) 📊
-  - SQL (High Proficiency) 📝
-- Programming Languages and Tools:
-  - Python (High Proficiency) 🐍
-  - Java (High Proficiency) ☕
-  - Jupyter (High Proficiency) 📔
-  - PDDL (High Proficiency) 🤖
-  - C/C++ (Intermediate Proficiency) 🅒
-  - Assembly (Intermediate Proficiency) 💾
-  - Matlab (Intermediate Proficiency) 📈
-  - HTML (Basic Proficiency) 🌐
-  - Javascript (Basic Proficiency) 🅙💰
-  - R (Basic Proficiency) 📊
+#### Common Software:
+- Microsoft Office Suite (High Proficiency) 📊
+- SQL (High Proficiency) 📝
+
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" height="40px"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" height="40px"/>
+  </a>
+</p>
+
+#### Programming Languages and Tools:
+- Python (High Proficiency) 🐍
+- Java (High Proficiency) ☕
+- Jupyter (High Proficiency) 📔
+- PDDL (High Proficiency) 🤖
+- C/C++ (Intermediate Proficiency) 🅒
+- Assembly (Intermediate Proficiency) 💾
+- Matlab (Intermediate Proficiency) 📈
+- HTML (Basic Proficiency) 🌐
+- Javascript (Basic Proficiency) 🅙💰
+- R (Basic Proficiency) 📊
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
