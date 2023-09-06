@@ -34,7 +34,7 @@ I pride myself on a diverse skill set, including:
   - Assembly (Intermediate Proficiency) 💾
   - Matlab (Intermediate Proficiency) 📈
   - HTML (Basic Proficiency) 🌐
-  - Javascript (Basic Proficiency)
+  - Javascript (Basic Proficiency) 🅙💰
   - R (Basic Proficiency) 📊
 
 <p align="left">
