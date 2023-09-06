@@ -14,7 +14,7 @@ I am a passionate computer scientist with a strong background in various aspects
 In my undergraduate thesis, I dedicated time and effort to studying and analyzing the WEKA software, a powerful tool for machine learning and data mining. I explored its data processing capabilities, intuitive user interface, and applications in various research contexts. This project was a significant milestone in my academic journey and allowed me to gain a deep understanding of machine learning techniques.
 
 #### Current Project - Vibration-Equipped Vest
-Currently, I am working on an exciting research project involving a vibration-equipped vest. This innovative device is designed to provide immersive tactile experiences through a series of vibrations.
+Currently, I am working on an exciting research project involving a vibration-equipped vest. This innovative device is designed to provide immersive tactile experiences through a series of vibrations. [I'll provide more info as soon as possible]
 
 ### Repository Highlights 🚀
 In my repositories, you'll find a collection of projects that showcase my academic and practical experience in the field of computer science. Most of these projects were developed during my Master's program, covering a wide range of topics from different courses.
