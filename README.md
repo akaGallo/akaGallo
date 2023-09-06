@@ -9,6 +9,13 @@
 ### About Me 🙋‍♂️
 I am a passionate computer scientist with a strong background in various aspects of computing. My journey started at the University of Florence ⚜️, where I successfully completed my undergraduate studies with top honors. Now, I'm embarking on a new adventure ✈️, diving deeper into the fascinating world of Artificial Intelligence 🎆. My interests encompass a wide range of topics, from machine learning 🕸️, robotics 🤖, natural language processing 🗣️, and software development 👨🏻‍💻 to a deep passion for leveraging technology to address real-world challenges and enhance the quality of people's lives 😎. Furthermore, I have a strong affinity for AI research, with a particular focus on the use of sound-based approaches to enhance cochlear implants 🦻🏼.
 
+### Research Studies
+#### Undergraduate Thesis - Weka
+In my undergraduate thesis, I dedicated time and effort to studying and analyzing the WEKA software, a powerful tool for machine learning and data mining. I explored its data processing capabilities, intuitive user interface, and applications in various research contexts. This project was a significant milestone in my academic journey and allowed me to gain a deep understanding of machine learning techniques.
+
+#### Current Project - Vibration-Equipped Vest
+Currently, I am working on an exciting research project involving a vibration-equipped vest. This innovative device is designed to provide immersive tactile experiences through a series of vibrations.
+
 ### Repository Highlights 🚀
 In my repositories, you'll find a collection of projects that showcase my academic and practical experience in the field of computer science. Most of these projects were developed during my Master's program, covering a wide range of topics from different courses.
 
