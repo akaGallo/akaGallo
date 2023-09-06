@@ -22,6 +22,16 @@ I pride myself on a diverse skill set, including:
   - Mac (High Proficiency) 💻
   - Linux (Intermediate Proficiency) 🐧
   - Windows (Basic Proficiency) 🪟
+ 
+<p align="left">
+  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS" height="40px"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="40px"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" height="40px"/>
+  </a>
+</p>
+
 - Common Software:
   - Microsoft Office Suite (High Proficiency) 📊
   - SQL (High Proficiency) 📝
