@@ -23,8 +23,8 @@ I pride myself on a diverse skill set, including:
   - Linux (Intermediate Proficiency) 🐧
   - Windows (Basic Proficiency) 🪟
 - Common Software:
-  - Microsoft Office Suite (Proficient) 📊
-  - SQL (Proficient) 📝
+  - Microsoft Office Suite (High Proficiency) 📊
+  - SQL (High Proficiency) 📝
 - Programming Languages and Tools:
   - Python (High Proficiency) 🐍
   - Java (High Proficiency) ☕
@@ -33,20 +33,30 @@ I pride myself on a diverse skill set, including:
   - Matlab (Intermediate Proficiency) 📈
   - Jupyter (High Proficiency) 📔
   - PDDL (High Proficiency) 🤖
+  - HTML (Basic Proficiency) 🌐
+  - Javascript (Basic Proficiency)
   - R (Basic Proficiency) 📊
-
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="40px"/>
   </a>
   <a href="https://www.java.com/it/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="40px"/>
   </a>
+  <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" height="40px"/>
+  </a>
+  <a href="https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logo=assembly&logoColor=white" alt="assembly" height="40px"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Matlab-007ACC?style=for-the-badge&logo=matlab&logoColor=white" alt="matlab" height="40px"/>
+  </a>
+  <a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jupyter-007ACC?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" height="40px"/>
+  </a>
+  <a href="https://planning.wiki/ref/pddl/domain" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PDDL-007ACC?style=for-the-badge&logo=pddl&logoColor=white" alt="pddl" height="40px"/>
+  </a>
+  <a href="https://html.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="40px"/>
+  </a>
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="40px"/>
+  </a>
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" height="40px"/>
-  </a>
-    <a href="https://cplusplus.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" height="40px"/>
-  </a>
-    <a href="https://html.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="40px"/>
-    <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="40px"/>
   </a>
 </p>
       
