@@ -37,11 +37,14 @@ I take pride in my diverse skill set, which encompasses a broad spectrum of comp
 #### Common Software:
 - Microsoft Office Suite (High Proficiency) 📊
 - SQL (High Proficiency) 📝
+- WEKA (High Proficiency)
 
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" height="40px"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" height="40px"/>
+  </a>
+  <a href="https://www.cs.waikato.ac.nz/ml/weka/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Weka-006400?style=for-the-badge&logo=weka&logoColor=white" alt="Weka" height="40px"/>
   </a>
 </p>
 
