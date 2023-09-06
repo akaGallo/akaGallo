@@ -34,7 +34,22 @@ I pride myself on a diverse skill set, including:
   - Jupyter (High Proficiency) 📔
   - PDDL (High Proficiency) 🤖
   - R (Basic Proficiency) 📊
-  
+
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="40px"/>
+  </a>
+  <a href="https://www.java.com/it/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="40px"/>
+  </a>
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" height="40px"/>
+  </a>
+    <a href="https://cplusplus.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" height="40px"/>
+  </a>
+    <a href="https://html.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="40px"/>
+    <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="40px"/>
+  </a>
+</p>
+      
 ### Contact Me 📫
 Feel free to reach out if you'd like to collaborate on a project, discuss AI, or just have a friendly chat. You can find me on LinkedIn and GitHub.
 Let's connect and explore the world of technology together! 🌐
