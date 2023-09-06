@@ -30,7 +30,7 @@ I pride myself on a diverse skill set, including:
   - Java (High Proficiency) ☕
   - Jupyter (High Proficiency) 📔
   - PDDL (High Proficiency) 🤖
-  - C (Intermediate Proficiency) 🅒
+  - C/C++ (Intermediate Proficiency) 🅒
   - Assembly (Intermediate Proficiency) 💾
   - Matlab (Intermediate Proficiency) 📈
   - HTML (Basic Proficiency) 🌐
