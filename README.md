@@ -101,7 +101,23 @@ I take pride in my diverse skill set, which encompasses a broad spectrum of comp
 </p>
       
 ### Contact Me 📫
-Feel free to reach out if you'd like to collaborate on a project, discuss AI, or just have a friendly chat. You can find me on LinkedIn and GitHub.
-Let's connect and explore the world of technology together! 🌐
+Feel free to reach out if you'd like to collaborate on a project, discuss AI, or just have a friendly chat. Let's connect and explore the world of technology together! 🌐
+
+<a href="https://github.com/akaGallo" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="20"/>
+</a>
+
+<a href="mailto:carlo.marotta10@icloud.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="20"/>
+</a>
+
+<a href="https://www.instagram.com/maro.1998/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="20"/>
+</a>
+
+<a href="https://m.facebook.com/profile.php/?id=100004185227231&name=xhp_nt__fb__action__open_user" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="20"/>
+</a>
+
 
 Thanks for visiting my profile! 👋
