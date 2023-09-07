@@ -3,7 +3,7 @@
 ### Education 📖
 
 - 🎓 High School Diploma: Graduated from A.M. Enriques Agnoletti High School in Florence.
-- 🎓 Bachelor's Degree: Graduated in Computer Science from the University of Florence on July 9, 2021, with a remarkable score of 110 cum laude! 🎉
+- 🎓 Bachelor's Degree: Graduated in Computer Science from the University of Florence on July 9, 2021, with a score of 110 cum laude! 🎉
 - 📚 Currently pursuing a Master's degree in Artificial Intelligence Systems at the University of Trento.
 
 ### About Me 🙋‍♂️
